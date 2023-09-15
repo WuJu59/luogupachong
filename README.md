@@ -1,1 +1,1 @@
-# luogupachong
+# 只有一个py文件，直接运行即可
